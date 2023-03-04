@@ -1,7 +1,7 @@
-package ru.netology.JavaHomeWork10.MoviesManagerTest;
+package ru.netology.JavaHomeWork10.MoviesManager;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.JavaHomeWork10.MoviesManager.MoviesManager;
+
 
 public class MoviesManagerTest {
 
